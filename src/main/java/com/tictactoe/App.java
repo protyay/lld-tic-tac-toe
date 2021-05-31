@@ -9,7 +9,6 @@ import domain.Move;
 import domain.Player;
 import exception.InvalidInputException;
 
-@SpringBootApplication
 public class App {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
